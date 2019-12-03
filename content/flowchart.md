@@ -213,7 +213,7 @@ Examples of tooltip usage below:
     var callback = function(){
         alert('A callback was triggered');
     }
-<script>
+</script>
 ```
 
 ```
